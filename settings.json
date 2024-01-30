@@ -1,0 +1,33 @@
+{
+    "workbench.colorTheme": "Min Dark",
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "editor.codeActionsOnSave": {
+        
+
+    },
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.rulers": [100, 140],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "workbench.statusBar.visible": false,
+    "apc.electron": {
+        "titleBarStyle": "hiddenInset"
+    },
+    "apc.listRow": { "height": 25},
+    "explorer.fileNesting.enabled": true,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.integrated.fontSize": 14
+}
